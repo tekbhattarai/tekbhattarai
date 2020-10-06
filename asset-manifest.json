@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tekbhattarai/static/css/main.8da6c54d.chunk.css",
+    "main.js": "/tekbhattarai/static/js/main.400def51.chunk.js",
+    "main.js.map": "/tekbhattarai/static/js/main.400def51.chunk.js.map",
+    "runtime-main.js": "/tekbhattarai/static/js/runtime-main.8fbd2edc.js",
+    "runtime-main.js.map": "/tekbhattarai/static/js/runtime-main.8fbd2edc.js.map",
+    "static/js/2.ccc197b9.chunk.js": "/tekbhattarai/static/js/2.ccc197b9.chunk.js",
+    "static/js/2.ccc197b9.chunk.js.map": "/tekbhattarai/static/js/2.ccc197b9.chunk.js.map",
+    "index.html": "/tekbhattarai/index.html",
+    "precache-manifest.a65561e64f6c39ad84b83cc0683c766d.js": "/tekbhattarai/precache-manifest.a65561e64f6c39ad84b83cc0683c766d.js",
+    "service-worker.js": "/tekbhattarai/service-worker.js",
+    "static/css/main.8da6c54d.chunk.css.map": "/tekbhattarai/static/css/main.8da6c54d.chunk.css.map",
+    "static/js/2.ccc197b9.chunk.js.LICENSE.txt": "/tekbhattarai/static/js/2.ccc197b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fbd2edc.js",
+    "static/js/2.ccc197b9.chunk.js",
+    "static/css/main.8da6c54d.chunk.css",
+    "static/js/main.400def51.chunk.js"
+  ]
+}
