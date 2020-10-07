@@ -22,7 +22,7 @@ function App() {
     <Route path="/about"exact component={About}></Route>
     </Switch>
     </Router>
-    <Home></Home>
+
     </div>
   );
 }
