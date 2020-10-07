@@ -1,10 +1,10 @@
 import React from 'react';
 
 import './App.css';
-import Home from './home/home';
-import Project from './project/project';
+import Home from './home';
+import Project from './project';
 
-import About from './about/about';
+import About from './about';
 import Nav from './nav'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 

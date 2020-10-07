@@ -9,7 +9,7 @@ class Home extends Component{
         return(<div >
 
 
-  
+  <h1>hi </h1>
 <div class="animated-title">
   <div class="text-top">
     <div>
