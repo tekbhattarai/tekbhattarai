@@ -26,17 +26,17 @@ class Nav extends Component{
    <ul class=" navbar ">
        <li class="nav-item ">
    
-       <Link to="home">  <li class="nav-link text-dark" ><span class="glyphicon glyphicon-home"></span><span class="sr-only">(current)</span></li></Link> 
+       <Link to="/home">  <li class="nav-link text-dark" ><span class="glyphicon glyphicon-home"></span><span class="sr-only">(current)</span></li></Link> 
 </li>
 
        <li class="nav-item">
-            <Link to="project">  <li class="nav-link text-dark" ><h4>Project</h4></li></Link> 
+            <Link to="/project">  <li class="nav-link text-dark" ><h4>Project</h4></li></Link> 
             </li>
 
 
         
        <li class="nav-item">
-            <Link to="about">  <li class="nav-link text-dark" ><h4>Contact</h4></li></Link> 
+            <Link to="/about">  <li class="nav-link text-dark" ><h4>Contact</h4></li></Link> 
             </li>
             <li class="nav-item">
             <li class="nav-link text-dark" ><a href="https://www.linkedin.com/in/tek-bhattarai-4364181a6/"><i class="fa fa-linkedin-square" style={{fontSize:"50px",color:"black"}}></i></a></li>
