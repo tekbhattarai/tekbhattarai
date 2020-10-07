@@ -26,7 +26,7 @@ class Nav extends Component{
    <ul class=" navbar ">
        <li class="nav-item ">
    
-       <Link to="/home">  <li class="nav-link text-dark" ><span class="glyphicon glyphicon-home"></span><span class="sr-only">(current)</span></li></Link> 
+       <Link to="/home">  <li class="nav-link text-dark" ><span class="glyphicon glyphicon-home"></span></li></Link> 
 </li>
 
        <li class="nav-item">
