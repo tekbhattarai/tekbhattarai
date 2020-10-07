@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tekbhattarai/precache-manifest.86e4e020f707c16e580792a2421d91b2.js"
+  "/tekbhattarai/precache-manifest.5a27ebb3b01f7e3b904a41415fa0e61f.js"
 );
 
 self.addEventListener('message', (event) => {

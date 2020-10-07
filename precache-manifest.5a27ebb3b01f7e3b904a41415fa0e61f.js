@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4bfbfca6611f52dc8220a0535c7c4eb",
+    "revision": "ecd17f742f6f1d787f88072c27772184",
     "url": "/tekbhattarai/index.html"
   },
   {
-    "revision": "7b93c39a5632a2d682db",
+    "revision": "cb175bf17e338a5ab988",
     "url": "/tekbhattarai/static/css/main.8da6c54d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tekbhattarai/static/js/2.ccc197b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b93c39a5632a2d682db",
-    "url": "/tekbhattarai/static/js/main.79113090.chunk.js"
+    "revision": "cb175bf17e338a5ab988",
+    "url": "/tekbhattarai/static/js/main.0a17a6bc.chunk.js"
   },
   {
     "revision": "daa87c1055c2da31f462",

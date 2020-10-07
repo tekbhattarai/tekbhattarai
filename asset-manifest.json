@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tekbhattarai/static/css/main.8da6c54d.chunk.css",
-    "main.js": "/tekbhattarai/static/js/main.79113090.chunk.js",
-    "main.js.map": "/tekbhattarai/static/js/main.79113090.chunk.js.map",
+    "main.js": "/tekbhattarai/static/js/main.0a17a6bc.chunk.js",
+    "main.js.map": "/tekbhattarai/static/js/main.0a17a6bc.chunk.js.map",
     "runtime-main.js": "/tekbhattarai/static/js/runtime-main.8fbd2edc.js",
     "runtime-main.js.map": "/tekbhattarai/static/js/runtime-main.8fbd2edc.js.map",
     "static/js/2.ccc197b9.chunk.js": "/tekbhattarai/static/js/2.ccc197b9.chunk.js",
     "static/js/2.ccc197b9.chunk.js.map": "/tekbhattarai/static/js/2.ccc197b9.chunk.js.map",
     "index.html": "/tekbhattarai/index.html",
-    "precache-manifest.86e4e020f707c16e580792a2421d91b2.js": "/tekbhattarai/precache-manifest.86e4e020f707c16e580792a2421d91b2.js",
+    "precache-manifest.5a27ebb3b01f7e3b904a41415fa0e61f.js": "/tekbhattarai/precache-manifest.5a27ebb3b01f7e3b904a41415fa0e61f.js",
     "service-worker.js": "/tekbhattarai/service-worker.js",
     "static/css/main.8da6c54d.chunk.css.map": "/tekbhattarai/static/css/main.8da6c54d.chunk.css.map",
     "static/js/2.ccc197b9.chunk.js.LICENSE.txt": "/tekbhattarai/static/js/2.ccc197b9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8fbd2edc.js",
     "static/js/2.ccc197b9.chunk.js",
     "static/css/main.8da6c54d.chunk.css",
-    "static/js/main.79113090.chunk.js"
+    "static/js/main.0a17a6bc.chunk.js"
   ]
 }
